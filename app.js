@@ -329,7 +329,7 @@ function SliceIndexCalculator() {
         <footer className="mt-10 text-xs subtle divider pt-4">
           <p><span className="font-semibold">Beta disclaimer</span>: This calculator is in beta. Always verify figures and read the methodology. Series can be revised.</p>
           <p className="mt-2">Built for clarity - SLICE measures burden in person years. CPI measures household affordability. Capability today requires engineering.</p>
-          <p className="mt-2">Built by <a className="underline" href="https://michaelsienko.xyz">Michael Sienko</a>.</p>
+          <p className="mt-2">Built by <a className="underline" href="https://michaelsienko.com">Michael Sienko</a>.</p>
         </footer>
       </main>
     </div>
